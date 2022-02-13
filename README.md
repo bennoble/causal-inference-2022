@@ -12,5 +12,10 @@ Exercises:
 
 [Link to `R` code](/Lab1/lab1_att_po.R) with comments.
 
+## Week 2: The Conditional Expectation Function and Linear Regression
 
+Exercises: 
+- Estimate the gender gap in earnings using the CEF and linear regression. Why are these the same or different?
+- Estimate the relationship between earnings and hours worked using the CEF and linear regression. Why are these the same or different?
 
+[Link to `R` code](/Lab2/lab2_cef_regression.R) with comments and solitions.
