@@ -38,7 +38,7 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 
 ### Week 4: Estimation via Subclassification
 
-- Exercise: estimate the ATE of first class status on survival on the Titanic, conditional on age and sex (this exercise is heavily based on one in Scott Cunningham's Causal Inference Mixtape (https://mixtape.scunning.com/matching-and-subclassification.html#subclassification-exercise-titanic-mathrmdata-set))
+- Exercise: estimate the ATE of first class status on survival on the Titanic, conditional on age and sex (this exercise is heavily based on one in Scott Cunningham's [Causal Inference Mixtape](https://mixtape.scunning.com/matching-and-subclassification.html#subclassification-exercise-titanic-mathrmdata-set))
 
 [Link to `R` code](/Lab4/lab4_sublcass.R) with comments and solutions.
 
