@@ -5,11 +5,12 @@ Lab exercises I created in `R` as an assistant in instruction for graduate-level
 If you find any errors, please let me know. Drop an issue here on GitHub or [DM me on Twitter](twitter.com/benjaminsnoble).
 
 ## Contents
-- [Week 1: Potential Outcomes Notation and Treatment Estimators](#week-1-potential-outcomes-notation-and-treatment-estimators)
-- [Week 2: CEF and Linear Regression](#week-2-the-conditional-expectation-function-and-linear-regression)
-- [Week 3: Power Analysis](#week-3-power-analysis-via-simulation)
-- [Week 4: Estimation via Subclassification](week-4-estimation-via-subclassification)
-- [Week 5: Matching](#week-5-matching)
+- [Potential Outcomes Notation and Treatment Estimators](#week-1-potential-outcomes-notation-and-treatment-estimators)
+- [CEF and Linear Regression](#week-2-the-conditional-expectation-function-and-linear-regression)
+- [Power Analysis](#week-3-power-analysis-via-simulation)
+- [Estimation via Subclassification](week-4-estimation-via-subclassification)
+- [Matching](#week-5-matching)
+- [Sensitivity Analysis](#week-6-sensitivity-analysis)
 
 ---
 
@@ -39,10 +40,16 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 
 - Exercise: estimate the ATE of first class status on survival on the Titanic, conditional on age and sex (this exercise is heavily based on one in Scott Cunningham's Causal Inference Mixtape (https://mixtape.scunning.com/matching-and-subclassification.html#subclassification-exercise-titanic-mathrmdata-set))
 
-[Link to `R` code](/Lab3/lab4_sublcass.R) with comments and solutions.
+[Link to `R` code](/Lab4/lab4_sublcass.R) with comments and solutions.
 
 ### Week 5: Matching
 
 - Exercise: using data from Volden and Wiseman (2010, 2014), estimate the effect of being female on legislative effectiveness (as compared to a matched set of male legislators). 
 
-[Link to `R` code](/Lab3/lab5_matching.R) with comments and solutions.
+[Link to `R` code](/Lab5/lab5_matching.R) with comments and solutions.
+
+### Week 6: Sensitivity Analysis
+
+- Exercise: estimate the sensitivity of a model of natural disaster occurrence on state funding without controlling for city partisanship, using simulated data.
+
+[Link to `R` code](/Lab6/lab6_sensitivity.R) with comments and solutions.
