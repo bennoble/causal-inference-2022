@@ -11,6 +11,8 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 - [Estimation via Subclassification](week-4-estimation-via-subclassification)
 - [Matching](#week-5-matching)
 - [Sensitivity Analysis](#week-6-sensitivity-analysis)
+- [Instrumental Variables](#week-7-instrumental-variables)
+- [Regression Discontinuity](week-8-regression-discontinuity)
 
 ---
 
@@ -53,3 +55,21 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 - Exercise: estimate the sensitivity of a model of natural disaster occurrence on state funding without controlling for city partisanship, using simulated data.
 
 [Link to `R` code](/Lab6/lab6_sensitivity.R) with comments and solutions.
+
+### Week 7: Instrumental Variables
+
+- Exercise: estimate the effect of misdemeanor jail time on turnout (White 2019) using an instrumental variables design.
+
+[Link to `R` code](/Lab7/lab7_iv.R) with comments and solutions.
+
+
+### Week 8: Regression Discontinuity
+
+- Exercise: estimate the effect of the 2021 stimulus payment on turnout using fake data and a regression discontinuity design.
+
+[Link to `R` code](/Lab8/lab8_rdd.R) with comments and solutions.
+
+
+
+
+
