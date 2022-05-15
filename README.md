@@ -73,7 +73,7 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 
 ### Week 9: Difference in Differences
 
-- Exercise: estimate the effect of the pandemic on women academics' careers (as measured by Twitter behavior)
+- Exercise: estimate the effect of the pandemic on women academics' careers (as measured by Twitter behavior) from Kim and Patterson (2021).
 
 [Link to `R` code](/Lab9/lab9_did.R) with comments and solutions.
 
