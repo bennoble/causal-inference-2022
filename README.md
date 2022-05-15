@@ -13,6 +13,7 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 - [Sensitivity Analysis](#week-6-sensitivity-analysis)
 - [Instrumental Variables](#week-7-instrumental-variables)
 - [Regression Discontinuity](week-8-regression-discontinuity)
+- [Difference-in-Differences](week-9-difference-in-differences)
 
 ---
 
@@ -70,6 +71,11 @@ If you find any errors, please let me know. Drop an issue here on GitHub or [DM 
 [Link to `R` code](/Lab8/lab8_rdd.R) with comments and solutions.
 
 
+### Week 9: Difference in Differences
+
+- Exercise: estimate the effect of the pandemic on women academics' careers (as measured by Twitter behavior)
+
+[Link to `R` code](/Lab9/lab9_did.R) with comments and solutions.
 
 
 
